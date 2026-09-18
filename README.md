@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi, I'm Bhanu 👋
+**Java Full Stack Developer | 2+ Years of IT Experience**
 
-<!--
-**Bhanupatel5/Bhanupatel5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Java Full Stack Developer with 2+ years of IT experience, working with enterprise retail applications and developing backend-focused solutions. I have hands-on experience with Java, Spring Boot, Microservices, REST APIs, SQL, ReactJS, Spring Security, Hibernate/JPA, and Docker.
 
-Here are some ideas to get you started:
+👨‍💻 About Me
+💼 2+ years of IT experience
+☕ Strong focus on Java and backend development
+🚀 Hands-on experience with Spring Boot and Microservices
+🔗 Experience building and working with REST APIs
+🗄️ Experience with MySQL and SQL
+🎨 Working knowledge of ReactJS, HTML, CSS, and JavaScript
+🔐 Knowledge of Spring Security and authentication
+🐳 Familiar with Docker and containerization
+🧪 Experience with JUnit and Mockito
+🔧 Familiar with Git, GitHub, Maven, Postman, and IntelliJ IDEA
+📚 Continuously learning and improving software development skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
